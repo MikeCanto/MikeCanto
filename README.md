@@ -1,5 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikecanto&show_icons=true&theme=transparent&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikecanto&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
  
  <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate developer from Mexico 🇲🇽</h3>
